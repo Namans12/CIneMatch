@@ -21,7 +21,7 @@ A simple movie recommendation system implemented in Python. This system allows u
 
 2. **Navigate to the project directory**:
    ```sh
-   cd code
+   cd CineMatch
 
 3. **Run the script**:
    ```sh
